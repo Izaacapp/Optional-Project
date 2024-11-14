@@ -1,0 +1,7 @@
+{
+    "[java]": {
+        "editor.defaultFormatter": "hyperproof.vscode-ext-prettier-java"
+    },
+    "editor.formatOnSave": true
+}
+
